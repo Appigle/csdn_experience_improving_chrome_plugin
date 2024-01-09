@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "CSDN LOGIN-FREE COPY & EXPAND",
+  "description": "Copy code from CSDN without requiring login and enable automatic expansion of code blocks",
+  "version": "0.9.0",
+  "author": "onegoodperson@gmail.com",
+  "icons": {
+    "16": "images/csdn_16.png",
+    "32": "images/csdn_32.png",
+    "48": "images/csdn_48.png",
+    "128": "images/csdn_128.png"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/index.js"
+      ],
+      "matches": [
+        "https://*.csdn.net/*"
+      ]
+    }
+  ],
+  "short_name": "CSND_KILLER",
+  "permissions": [
+    "tabs"
+  ]
+}
