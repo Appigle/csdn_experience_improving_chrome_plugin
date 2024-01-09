@@ -21,6 +21,8 @@ clone 本 repo
 开启开发者模式并选择加载未打包扩展，选择项目目录并安装
 更多 Chrome 扩展开发详情请参考: [Chrome 扩展开发指南]:https://developer.chrome.com/docs/extensions?hl=zh-cn
 
+**如果快捷键和鼠标右键复制不生效，可以尝试使用剪切选中区域的方式来复制**
+
 ## 参与贡献
 
 如在使用过程中发现任何问题或加入新的功能意见,欢迎在 GitHub 上提 issue 或 PR。反正大概也没,所以我也不担心。

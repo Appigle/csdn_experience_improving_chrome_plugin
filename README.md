@@ -16,6 +16,8 @@ As a front-end developer who contributes to open source projects, I noticed ther
 
 Clone this repo. Go to `chrome://extensions` to access Extensions page. Enable Developer mode and select Load Unpacked Extension to install from project folder. Refer to [Chrome Extension Development Guide](https://developer.chrome.com/docs/extensions?hl=zh-cn) for more details on Chrome extension development.
 
+**If the shortcut key and the right-click context menu for copying do not work, you can try copying the selected area by cutting it**
+
 ## Contributing
 
 For any issues encountered or new feature requests, please feel free to create issues or pull requests on GitHub.
