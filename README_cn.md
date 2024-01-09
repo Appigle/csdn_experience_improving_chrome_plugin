@@ -8,6 +8,8 @@
 
 ## 特性
 
+![SCREEN CAPTURE](./images/CSDN_KILLER_SCREEN_CAPTURE.png)
+
 - 一键展开所有代码块:无须手动展开,完整浏览代码内容
 - 智能复制代码:可以流畅复制任意代码文本至编辑器
 - 免登录即用:携手 CSDN'开放'精神,不需登录也可以使用插件
